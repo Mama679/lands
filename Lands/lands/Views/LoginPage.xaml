@@ -10,7 +10,10 @@
                    HorizontalOptions="Center">
                 
             </Label>
-
+            <Image
+                Source="logogasdatacolor"
+                >                
+            </Image>
             <Label Text="E-Mail">
             </Label>
 

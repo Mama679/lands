@@ -13078,6 +13078,9 @@ namespace lands.Droid
 			// aapt resource value: 13
 			public const int MenuItem_actionLayout = 13;
 			
+			// aapt resource value: 13
+			public const int MenuItem_actionLayout = 13;
+			
 			// aapt resource value: 14
 			public const int MenuItem_actionProviderClass = 14;
 			
@@ -13222,6 +13225,12 @@ namespace lands.Droid
 			// aapt resource value: 7
 			public const int NavigationView_itemIconPadding = 7;
 			
+			// aapt resource value: 6
+			public const int NavigationView_itemHorizontalPadding = 6;
+			
+			// aapt resource value: 7
+			public const int NavigationView_itemIconPadding = 7;
+			
 			// aapt resource value: 8
 			public const int NavigationView_itemIconTint = 8;
 			
@@ -13239,6 +13248,13 @@ namespace lands.Droid
 					16843126,
 					16843465,
 					2130903347};
+			
+			// aapt resource value: { 0x7F03016A }
+			public static int[] PopupWindowBackgroundState = new int[] {
+					2130903402};
+			
+			// aapt resource value: 0
+			public const int PopupWindowBackgroundState_state_above_anchor = 0;
 			
 			// aapt resource value: { 0x7F03016A }
 			public static int[] PopupWindowBackgroundState = new int[] {
@@ -13376,8 +13392,14 @@ namespace lands.Droid
 			// aapt resource value: 6
 			public const int SearchView_defaultQueryHint = 6;
 			
+			// aapt resource value: 6
+			public const int SearchView_defaultQueryHint = 6;
+			
 			// aapt resource value: 7
 			public const int SearchView_goIcon = 7;
+			
+			// aapt resource value: 8
+			public const int SearchView_iconifiedByDefault = 8;
 			
 			// aapt resource value: 8
 			public const int SearchView_iconifiedByDefault = 8;
